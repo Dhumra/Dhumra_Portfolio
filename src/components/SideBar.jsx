@@ -1,5 +1,6 @@
 // src/components/SideBar.jsx
 import React from "react";
+import Leetcode from "../assets/leetcode.svg";
 
 
 export const SideBar = () => {
@@ -14,9 +15,9 @@ export const SideBar = () => {
   ];
 
   const socials = [
-    { href: "https://github.com/your-username", icon: "fab fa-github", label: "GitHub" },
-    { href: "https://linkedin.com/in/your-profile", icon: "fab fa-linkedin", label: "LinkedIn" },
-    { href: "https://leetcode.com/your-username", icon: "fas fa-code", label: "LeetCode" },
+    { href: "https://github.com/Dhumra", icon: "fab fa-github", label: "GitHub" },
+    { href: "https://www.linkedin.com/in/dambre/", icon: "fab fa-linkedin", label: "LinkedIn" },
+    { href: "https://leetcode.com/dhumravarnaambre36/", icon: "fas fa-code", label: "LeetCode" },
   ];
 
   return (
