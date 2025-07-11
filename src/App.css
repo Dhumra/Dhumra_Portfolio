@@ -207,6 +207,14 @@ button:hover {
   object-fit: cover;
 }
 
+@media (max-width: 600px) {
+  .about-photo-container {
+    padding-top: 50px;
+  }
+}
+
+
+
 
 /* ====================
    Projects Section
